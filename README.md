@@ -1,7 +1,7 @@
-YearProgressBot
+ProgressBot
 ===============
 
-\\\ YearProgressBot /// written in Bash, for Telegram.
+\\\ ProgressBot /// written in Bash, for Telegram.
 
 Deployment
 ----------
